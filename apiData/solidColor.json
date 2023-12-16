@@ -1,0 +1,404 @@
+{
+    "solidColors": [
+        {
+            "name": "#a6669b",
+            "code": "#a6669b"
+        },
+        {
+            "name": "#a1e3c2",
+            "code": "#a1e3c2"
+        },
+        {
+            "name": "#64f955",
+            "code": "#64f955"
+        },
+        {
+            "name": "#c26268",
+            "code": "#c26268"
+        },
+        {
+            "name": "#7eaf58",
+            "code": "#7eaf58"
+        },
+        {
+            "name": "#bf1673",
+            "code": "#bf1673"
+        },
+        {
+            "name": "#650ab3",
+            "code": "#650ab3"
+        },
+        {
+            "name": "#642e15",
+            "code": "#642e15"
+        },
+        {
+            "name": "#3a1f32",
+            "code": "#3a1f32"
+        },
+        {
+            "name": "#7b25ee",
+            "code": "#7b25ee"
+        },
+        {
+            "name": "#81ed28",
+            "code": "#81ed28"
+        },
+        {
+            "name": "#5a7e9e",
+            "code": "#5a7e9e"
+        },
+        {
+            "name": "#182d35",
+            "code": "#182d35"
+        },
+        {
+            "name": "#f71808",
+            "code": "#f71808"
+        },
+        {
+            "name": "#77f127",
+            "code": "#77f127"
+        },
+        {
+            "name": "#fe59eb",
+            "code": "#fe59eb"
+        },
+        {
+            "name": "#7d2ef8",
+            "code": "#7d2ef8"
+        },
+        {
+            "name": "#62255d",
+            "code": "#62255d"
+        },
+        {
+            "name": "#6a0cdf",
+            "code": "#6a0cdf"
+        },
+        {
+            "name": "#02aab4",
+            "code": "#02aab4"
+        },
+        {
+            "name": "#7bf64d",
+            "code": "#7bf64d"
+        },
+        {
+            "name": "#a02b88",
+            "code": "#a02b88"
+        },
+        {
+            "name": "#295473",
+            "code": "#295473"
+        },
+        {
+            "name": "#5a166c",
+            "code": "#5a166c"
+        },
+        {
+            "name": "#c60c69",
+            "code": "#c60c69"
+        },
+        {
+            "name": "#2691ff",
+            "code": "#2691ff"
+        },
+        {
+            "name": "#de3e76",
+            "code": "#de3e76"
+        },
+        {
+            "name": "#2daecf",
+            "code": "#2daecf"
+        },
+        {
+            "name": "#1910c2",
+            "code": "#1910c2"
+        },
+        {
+            "name": "#719a82",
+            "code": "#719a82"
+        },
+        {
+            "name": "#869490",
+            "code": "#869490"
+        },
+        {
+            "name": "#9e170a",
+            "code": "#9e170a"
+        },
+        {
+            "name": "#1e34b0",
+            "code": "#1e34b0"
+        },
+        {
+            "name": "#bd2f01",
+            "code": "#bd2f01"
+        },
+        {
+            "name": "#fadd17",
+            "code": "#fadd17"
+        },
+        {
+            "name": "#4f21f5",
+            "code": "#4f21f5"
+        },
+        {
+            "name": "#fa034e",
+            "code": "#fa034e"
+        },
+        {
+            "name": "#6b6c02",
+            "code": "#6b6c02"
+        },
+        {
+            "name": "#a4eeae",
+            "code": "#a4eeae"
+        },
+        {
+            "name": "#b52c22",
+            "code": "#b52c22"
+        },
+        {
+            "name": "#5452a1",
+            "code": "#5452a1"
+        },
+        {
+            "name": "#eae8f6",
+            "code": "#eae8f6"
+        },
+        {
+            "name": "#37e9d4",
+            "code": "#37e9d4"
+        },
+        {
+            "name": "#82372e",
+            "code": "#82372e"
+        },
+        {
+            "name": "#b92919",
+            "code": "#b92919"
+        },
+        {
+            "name": "#879652",
+            "code": "#879652"
+        },
+        {
+            "name": "#d14295",
+            "code": "#d14295"
+        },
+        {
+            "name": "#a6c11b",
+            "code": "#a6c11b"
+        },
+        {
+            "name": "#96ea98",
+            "code": "#96ea98"
+        },
+        {
+            "name": "#0cd384",
+            "code": "#0cd384"
+        },
+        {
+            "name": "#831936",
+            "code": "#831936"
+        },
+        {
+            "name": "#ab212c",
+            "code": "#ab212c"
+        },
+        {
+            "name": "#9d1e5d",
+            "code": "#9d1e5d"
+        },
+        {
+            "name": "#f2dd1d",
+            "code": "#f2dd1d"
+        },
+        {
+            "name": "#5a6f31",
+            "code": "#5a6f31"
+        },
+        {
+            "name": "#1b993d",
+            "code": "#1b993d"
+        },
+        {
+            "name": "#1da83f",
+            "code": "#1da83f"
+        },
+        {
+            "name": "#386d9e",
+            "code": "#386d9e"
+        },
+        {
+            "name": "#94c6f1",
+            "code": "#94c6f1"
+        },
+        {
+            "name": "#d69461",
+            "code": "#d69461"
+        },
+        {
+            "name": "#ff1dcf",
+            "code": "#ff1dcf"
+        },
+        {
+            "name": "#122f2f",
+            "code": "#122f2f"
+        },
+        {
+            "name": "#ffc2bd",
+            "code": "#ffc2bd"
+        },
+        {
+            "name": "#ad5e21",
+            "code": "#ad5e21"
+        },
+        {
+            "name": "#74b11e",
+            "code": "#74b11e"
+        },
+        {
+            "name": "#5b66be",
+            "code": "#5b66be"
+        },
+        {
+            "name": "#f11d6e",
+            "code": "#f11d6e"
+        },
+        {
+            "name": "#94e93b",
+            "code": "#94e93b"
+        },
+        {
+            "name": "#f1691a",
+            "code": "#f1691a"
+        },
+        {
+            "name": "#d75dec",
+            "code": "#d75dec"
+        },
+        {
+            "name": "#5b5dbe",
+            "code": "#5b5dbe"
+        },
+        {
+            "name": "#71fce6",
+            "code": "#71fce6"
+        },
+        {
+            "name": "#2e3b1e",
+            "code": "#2e3b1e"
+        },
+        {
+            "name": "#960dc4",
+            "code": "#960dc4"
+        },
+        {
+            "name": "#4c5f09",
+            "code": "#4c5f09"
+        },
+        {
+            "name": "#8d412c",
+            "code": "#8d412c"
+        },
+        {
+            "name": "#320dcf",
+            "code": "#320dcf"
+        },
+        {
+            "name": "#7ee115",
+            "code": "#7ee115"
+        },
+        {
+            "name": "#1a0b28",
+            "code": "#1a0b28"
+        },
+        {
+            "name": "#0b4c41",
+            "code": "#0b4c41"
+        },
+        {
+            "name": "#22e3d0",
+            "code": "#22e3d0"
+        },
+        {
+            "name": "#b95184",
+            "code": "#b95184"
+        },
+        {
+            "name": "#016391",
+            "code": "#016391"
+        },
+        {
+            "name": "#e937d4",
+            "code": "#e937d4"
+        },
+        {
+            "name": "#774836",
+            "code": "#774836"
+        },
+        {
+            "name": "#62a8c6",
+            "code": "#62a8c6"
+        },
+        {
+            "name": "#471453",
+            "code": "#471453"
+        },
+        {
+            "name": "#d038c9",
+            "code": "#d038c9"
+        },
+        {
+            "name": "#0d9538",
+            "code": "#0d9538"
+        },
+        {
+            "name": "#4a6019",
+            "code": "#4a6019"
+        },
+        {
+            "name": "#9c4851",
+            "code": "#9c4851"
+        },
+        {
+            "name": "#da8782",
+            "code": "#da8782"
+        },
+        {
+            "name": "#00552c",
+            "code": "#00552c"
+        },
+        {
+            "name": "#71cce0",
+            "code": "#71cce0"
+        },
+        {
+            "name": "#a8332e",
+            "code": "#a8332e"
+        },
+        {
+            "name": "#ff6b90",
+            "code": "#ff6b90"
+        },
+        {
+            "name": "#99a938",
+            "code": "#99a938"
+        },
+        {
+            "name": "#a0370a",
+            "code": "#a0370a"
+        },
+        {
+            "name": "#0c2d9e",
+            "code": "#0c2d9e"
+        },
+        {
+            "name": "#cf2b5e",
+            "code": "#cf2b5e"
+        }
+    ]
+}
