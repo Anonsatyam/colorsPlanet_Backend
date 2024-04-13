@@ -21,7 +21,7 @@ To run the ColorsPlanet Frontend locally, follow these steps:
    ```bash
    npm start
 
-5. The backend server will be running at [http://localhost:3000](http://localhost:3000)..
+5. The backend server will be running at [http://localhost:3000](http://localhost:3000)
 
 ## Frontend Client
 The frontend client interacts with the backend server to fetch color data and perform various functionalities. Make sure to set up the frontend client by following the instructions in the colorsPlanet_Frontend repository.
@@ -35,4 +35,4 @@ The frontend client interacts with the backend server to fetch color data and pe
 Contributions to ColorsPlanet Backend are welcome! If you have ideas, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [https://opensource.org/license/mit](https://opensource.org/license/mit)
+This project is licensed under the [MIT License](https://opensource.org/license/mit)
