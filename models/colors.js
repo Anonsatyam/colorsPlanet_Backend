@@ -16,7 +16,6 @@ const userSchema = new mongoose.Schema({
 
 const colorSchema = new mongoose.Schema({
   colorGroups: [
-    [
       {
         name: {
           type: String,
@@ -28,7 +27,6 @@ const colorSchema = new mongoose.Schema({
           unique: true,
         },
       },
-    ],
   ],
 });
 
